@@ -1,0 +1,2218 @@
+{
+  "statusCode": 0,
+  "data": {
+    "statusMessage": "done successfully",
+    "cards": [
+      {
+        "card": {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.gandalf.widgets.v2.TextBoxV2",
+            "text": "Hotel Riyaz Pot Biryani",
+            "headerStyling": {
+              "textColor": "text_Highest_Emphasis",
+              "textVariant": "header_H3_Black"
+            }
+          }
+        }
+      },
+      {
+        "card": {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.gandalf.widgets.v2.RestaurantBlTab",
+            "tabs": [
+              {
+                "id": "Order Online",
+                "title": "Order Online"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "card": {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+              "id": "552041",
+              "name": "Hotel Riyaz Pot Biryani",
+              "city": "Nellore",
+              "slugs": {
+                "restaurant": "hotel-riyaz-biriyan-restaurant-nellore-area-nellore-area",
+                "city": "nellore"
+              },
+              "uniqueId": "e51e6528-4859-48c8-8fed-e84c17dc2d76",
+              "cloudinaryImageId": "vpsyzclzfojf3bgpi2mo",
+              "locality": "Achari Street",
+              "areaName": "Achari Street",
+              "costForTwo": "35000",
+              "costForTwoMessage": "₹350 for two",
+              "cuisines": [
+                "Biryani",
+                "Kebabs"
+              ],
+              "avgRating": 4.1,
+              "feeDetails": {
+                "restaurantId": "552041",
+                "fees": [
+                  {
+                    
+                  }
+                ]
+              },
+              "parentId": "12665",
+              "avgRatingString": "4.1",
+              "totalRatingsString": "7.3K+ ratings",
+              "sla": {
+                "restaurantId": "552041",
+                "deliveryTime": 26,
+                "minDeliveryTime": 25,
+                "maxDeliveryTime": 30,
+                "lastMileTravel": 2.4,
+                "serviceability": "SERVICEABLE",
+                "stressFactor": 1,
+                "rainMode": "RAIN_MODE_NONE",
+                "longDistance": "LONG_DISTANCE_NOT_LONG_DISTANCE",
+                "zoneId": 3262,
+                "slaString": "25-30 MINS",
+                "lastMileTravelString": "2.4 km",
+                "iconType": "ICON_TYPE_EMPTY"
+              },
+              "availability": {
+                "nextOpenTimeMessage": "Opens next at 11:30 am, tomorrow",
+                "nextOpenTime": "2026-07-14 11:30:00",
+                "visibility": true,
+                "restaurantClosedMeta": {
+                  
+                }
+              },
+              "aggregatedDiscountInfo": {
+                "header": "FLAT Rs.75 Off",
+                "shortDescriptionList": [
+                  {
+                    "meta": "FLAT Rs.75 Off | Use GIFT4U",
+                    "discountType": "Flat",
+                    "operationType": "RESTAURANT"
+                  },
+                  {
+                    "meta": "Flat ₹100 off | Use DEAL4U",
+                    "discountType": "Flat",
+                    "operationType": "RESTAURANT"
+                  }
+                ],
+                "descriptionList": [
+                  {
+                    "meta": "FLAT Rs.75 Off | Use code GIFT4U",
+                    "discountType": "Flat",
+                    "operationType": "RESTAURANT"
+                  },
+                  {
+                    "meta": "Flat ₹100 off | Use DEAL4U",
+                    "discountType": "Flat",
+                    "operationType": "RESTAURANT"
+                  }
+                ],
+                "visible": true
+              },
+              "badges": {
+                
+              },
+              "slugString": "hotel-riyaz-biriyan-restaurant-nellore-area-nellore-area",
+              "labels": [
+                {
+                  "title": "Timings",
+                  "message": "null"
+                },
+                {
+                  "title": "Address",
+                  "message": "Achari street near old zilla parishad office main road , Akkacheruvupadu, Nellore, Nellore, Andhra Pradesh, 524001"
+                },
+                {
+                  "title": "Cuisines",
+                  "message": "Biryani,Kebabs"
+                }
+              ],
+              "totalRatings": 7300,
+              "aggregatedDiscountInfoV2": {
+                "header": "FLAT Rs.75 Off",
+                "shortDescriptionList": [
+                  {
+                    "meta": "FLAT Rs.75 Off | Use GIFT4U",
+                    "discountType": "Flat",
+                    "operationType": "RESTAURANT"
+                  },
+                  {
+                    "meta": "Flat ₹100 off | Use DEAL4U",
+                    "discountType": "Flat",
+                    "operationType": "RESTAURANT"
+                  }
+                ],
+                "descriptionList": [
+                  {
+                    "meta": "FLAT Rs.75 Off | Use code GIFT4U",
+                    "discountType": "Flat",
+                    "operationType": "RESTAURANT"
+                  },
+                  {
+                    "meta": "Flat ₹100 off | Use DEAL4U",
+                    "discountType": "Flat",
+                    "operationType": "RESTAURANT"
+                  }
+                ],
+                "couponDetailsCta": "View coupon details"
+              },
+              "type": "F",
+              "similarRestaurantAvailable": "false",
+              "nudgeBanners": [
+                {
+                  "minValue": 174,
+                  "maxValue": 249,
+                  "priority": 1,
+                  "couponCode": "GIFT4U",
+                  "discountInfo": {
+                    "discountType": "Flat",
+                    "value": 75
+                  },
+                  "lockedMessage": "Add items worth ₹<amount> to save ₹75 | Code GIFT4U",
+                  "unlockedMessage": "GIFT4U Coupon Unlocked! Use it to save ₹75",
+                  "logoCtx": {
+                    
+                  }
+                },
+                {
+                  "minValue": 384,
+                  "maxValue": 549,
+                  "priority": 4,
+                  "couponCode": "OFFER4U",
+                  "discountInfo": {
+                    "discountType": "Flat",
+                    "value": 150
+                  },
+                  "lockedMessage": "Add items worth ₹<amount> to save ₹150 | Code OFFER4U",
+                  "unlockedMessage": "OFFER4U Coupon Unlocked! Use it to save ₹150",
+                  "logoCtx": {
+                    
+                  }
+                }
+              ],
+              "headerBanner": {
+                "url": "swiggy://webview?is_external=false&webview_url=https://www.swiggy.com/restaurant-info/552041"
+              },
+              "tradeCampaignHeadersV2": [
+                {
+                  "discountType": "Flat"
+                },
+                {
+                  "discountType": "Flat"
+                },
+                {
+                  "discountType": "Flat"
+                },
+                {
+                  "discountType": "Flat"
+                },
+                {
+                  "discountType": "FREE_DELIVERY"
+                },
+                {
+                  "discountType": "Percentage"
+                },
+                {
+                  "discountType": "Percentage"
+                },
+                {
+                  "discountType": "Flat"
+                },
+                {
+                  "discountType": "Flat"
+                },
+                {
+                  "discountType": "Percentage"
+                }
+              ],
+              "ratingSlab": "RATING_SLAB_5",
+              "availabilityServiceabilityMessage": "Currently closed for delivery. Opens next at 11:30 am, tomorrow",
+              "orderabilityCommunication": {
+                "title": {
+                  "text": "Currently"
+                },
+                "subTitle": {
+                  "text": "CLOSED"
+                },
+                "message": {
+                  "text": "Uh-oh! Outlet is not accepting orders at the moment. They should be back by 11:30 AM tomorrow",
+                  "textColour": "primary"
+                },
+                "customIcon": {
+                  "bgGradientColorStart": "#EB8322",
+                  "bgGradientColorEnd": "#EE5803"
+                },
+                "commsStyling": {
+                  
+                }
+              },
+              "cartOrderabilityNudgeBanner": {
+                "parameters": {
+                  
+                },
+                "presentation": {
+                  
+                }
+              },
+              "latLong": "14.44738742,79.98024505",
+              "backgroundImageOverlayInfo": {
+                
+              },
+              "featuredSectionInfo": {
+                
+              },
+              "timingsInfo": {
+                "status": "Closed",
+                "message": "Opens 12:00 am",
+                "outletTiming": {
+                  "infoList": [
+                    {
+                      "title": "Monday",
+                      "subtitle": "Midnight - 2.00AM, 11.30AM - 11.59PM",
+                      "titleColor": "primary",
+                      "subtitleColor": "primary"
+                    },
+                    {
+                      "title": "Tuesday",
+                      "subtitle": "Midnight - 2.00AM, 11.30AM - 11.59PM",
+                      "titleColor": "text_high_emphasis",
+                      "subtitleColor": "text_high_emphasis"
+                    },
+                    {
+                      "title": "Wednesday",
+                      "subtitle": "Midnight - 2.00AM, 11.30AM - 11.59PM",
+                      "titleColor": "text_high_emphasis",
+                      "subtitleColor": "text_high_emphasis"
+                    },
+                    {
+                      "title": "Thursday",
+                      "subtitle": "Midnight - 2.00AM, 11.30AM - 11.59PM",
+                      "titleColor": "text_high_emphasis",
+                      "subtitleColor": "text_high_emphasis"
+                    },
+                    {
+                      "title": "Friday",
+                      "subtitle": "Midnight - 2.00AM, 11.30AM - 11.59PM",
+                      "titleColor": "text_high_emphasis",
+                      "subtitleColor": "text_high_emphasis"
+                    },
+                    {
+                      "title": "Saturday",
+                      "subtitle": "Midnight - 2.00AM, 11.30AM - 11.59PM",
+                      "titleColor": "text_high_emphasis",
+                      "subtitleColor": "text_high_emphasis"
+                    },
+                    {
+                      "title": "Sunday",
+                      "subtitle": "Midnight - 2.00AM, 11.30AM - 11.59PM",
+                      "titleColor": "text_high_emphasis",
+                      "subtitleColor": "text_high_emphasis"
+                    }
+                  ],
+                  "title": "Outlet timings"
+                },
+                "styleInfo": {
+                  "titleColor": "negative",
+                  "subtitleColor": "text_color_low_emphasis"
+                }
+              },
+              "phone": "7207777787",
+              "postalCode": "524001"
+            },
+            "analytics": {
+              
+            }
+          },
+          "relevance": {
+            "type": "RELEVANCE_TYPE_CHECK_ORDERABILITY_AND_SHOW_MENU_OFFER_NUDGE",
+            "sectionId": "MENU_ITEM_CART_UPDATE_POP_CROUTON"
+          }
+        }
+      },
+      {
+        "card": {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.gandalf.widgets.v2.GridWidget",
+            "layout": {
+              "rows": 1,
+              "columns": 5,
+              "horizontalScrollEnabled": true,
+              "itemSpacing": 12,
+              "lineSpacing": 10,
+              "widgetPadding": {
+                
+              },
+              "containerStyle": {
+                "containerPadding": {
+                  "left": 10,
+                  "right": 10,
+                  "bottom": 16
+                }
+              }
+            },
+            "id": "offerCollectionWidget_UX4",
+            "gridElements": {
+              "infoWithStyle": {
+                "@type": "type.googleapis.com/swiggy.presentation.food.v2.OfferInfoWithStyle",
+                "offers": [
+                  {
+                    "info": {
+                      "header": "FLAT ₹75 OFF",
+                      "offerTag": "DEFAULT",
+                      "offerTagColor": "#E46D47",
+                      "offerIds": [
+                        "bd4fa149-d5f1-4bb3-932a-bbf95894fbd8"
+                      ],
+                      "expiryTime": "1970-01-01T00:00:00Z",
+                      "couponCode": "USE GIFT4U",
+                      "description": "ABOVE ₹249",
+                      "offerType": "offers",
+                      "restId": "552041",
+                      "offerLogo": "offers/generic",
+                      "descriptionTextColor": "#7302060C",
+                      "primaryDescription": "USE GIFT4U"
+                    },
+                    "cta": {
+                      "type": "OFFER_HALF_CARD"
+                    }
+                  },
+                  {
+                    "info": {
+                      "header": "FLAT ₹100 OFF",
+                      "offerTag": "FLAT DEAL",
+                      "offerTagColor": "#E46D47",
+                      "offerIds": [
+                        "52fe3168-1e26-4936-9eaa-a84af675f06d"
+                      ],
+                      "expiryTime": "1970-01-01T00:00:00Z",
+                      "couponCode": "USE DEAL4U",
+                      "description": "ABOVE ₹299",
+                      "offerType": "offers",
+                      "restId": "552041",
+                      "offerLogo": "offers/generic",
+                      "descriptionTextColor": "#7302060C",
+                      "primaryDescription": "USE DEAL4U"
+                    },
+                    "cta": {
+                      "type": "OFFER_HALF_CARD"
+                    }
+                  },
+                  {
+                    "info": {
+                      "header": "FLAT ₹50 OFF",
+                      "offerTag": "FLAT DEAL",
+                      "offerTagColor": "#E46D47",
+                      "offerIds": [
+                        "6c991241-dc9f-4a3d-aae6-9cbd708644bd"
+                      ],
+                      "expiryTime": "1970-01-01T00:00:00Z",
+                      "couponCode": "USE EXCLUSIVE4U",
+                      "description": "ABOVE ₹449",
+                      "offerType": "offers",
+                      "restId": "552041",
+                      "offerLogo": "offers/generic",
+                      "descriptionTextColor": "#7302060C",
+                      "primaryDescription": "USE EXCLUSIVE4U"
+                    },
+                    "cta": {
+                      "type": "OFFER_HALF_CARD"
+                    }
+                  },
+                  {
+                    "info": {
+                      "header": "FLAT ₹150 OFF",
+                      "offerTag": "FLAT DEAL",
+                      "offerTagColor": "#E46D47",
+                      "offerIds": [
+                        "3c327c44-e5ce-4eed-9e29-b4f6760c7db3"
+                      ],
+                      "expiryTime": "1970-01-01T00:00:00Z",
+                      "couponCode": "USE OFFER4U",
+                      "description": "ABOVE ₹549",
+                      "offerType": "offers",
+                      "restId": "552041",
+                      "offerLogo": "offers/generic",
+                      "descriptionTextColor": "#7302060C",
+                      "primaryDescription": "USE OFFER4U"
+                    },
+                    "cta": {
+                      "type": "OFFER_HALF_CARD"
+                    }
+                  },
+                  {
+                    "info": {
+                      "header": "10% OFF UPTO ₹75",
+                      "offerTagColor": "#E46D47",
+                      "logoBottom": "MARKETING_BANNERS/IMAGES/OFFERS/2026/7/1/7841ada3-e1b0-45dc-93ef-287956cbcebb_Visa.png",
+                      "offerIds": [
+                        "2b8ea76f-48ac-4f20-b28f-abb1c63cc5a2"
+                      ],
+                      "expiryTime": "1970-01-01T00:00:00Z",
+                      "couponCode": "USE VISAPLATINUMCC",
+                      "description": "ABOVE ₹600",
+                      "offerType": "offers",
+                      "restId": "552041",
+                      "offerLogo": "MARKETING_BANNERS/IMAGES/OFFERS/2026/7/1/7841ada3-e1b0-45dc-93ef-287956cbcebb_Visa.png",
+                      "descriptionTextColor": "#7302060C",
+                      "primaryDescription": "USE VISAPLATINUMCC"
+                    },
+                    "cta": {
+                      "type": "OFFER_HALF_CARD"
+                    }
+                  }
+                ],
+                "habitMilestoneInfo": {
+                  "callout": {
+                    
+                  }
+                },
+                "loyaltyDiscoverPresentationInfo": {
+                  "logoCtx": {
+                    
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "groupedCard": {
+          "cardGroupMap": {
+            "REGULAR": {
+              "cards": [
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.MenuVegFilterAndBadge",
+                      "badges": {
+                        
+                      },
+                      "vegOnlyDetails": {
+                        "imageId": "AutoVegOnly_qkjowj",
+                        "title": "Showing only vegetarian options.",
+                        "description": "Tap on the VEG ONLY button to turn off the setting"
+                      },
+                      "topRatedFilter": {
+                        "attributes": {
+                          "displayText": "Ratings 4.0+"
+                        }
+                      },
+                      "kidsCategoryFilter": {
+                        "attributes": {
+                          "displayText": "Kids Favourites",
+                          "tooltip": {
+                            "enabled": true,
+                            "displayText": "Kids Favourites Filter applied. Remove this filter to see the full Menu."
+                          }
+                        }
+                      },
+                      "vegFilter": {
+                        "attributes": {
+                          "displayText": "VEG"
+                        }
+                      },
+                      "nonvegFilter": {
+                        "attributes": {
+                          "displayText": "NONVEG"
+                        }
+                      }
+                    },
+                    "relevance": {
+                      "type": "RELEVANCE_TYPE_ON_MENU_FILTER_TOGGLED",
+                      "sectionId": "MENU_FILTER_TOGGLE"
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                      "title": "Biriyani'S",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "93408118",
+                              "name": "Sada Biryani",
+                              "category": "Biriyani'S",
+                              "description": "Serves 1 | Aromatic rice preparation spices and slow-cooked to perfection; served along with curry and raita.",
+                              "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/1/20/b0caf416-381b-4fca-8abd-ba6ec6d97b13_119b9343-c419-4dc9-a55c-508b08ed3334.JPG",
+                              "price": 17000,
+                              "variants": {
+                                
+                              },
+                              "variantsV2": {
+                                
+                              },
+                              "itemAttribute": {
+                                "vegClassifier": "NONVEG",
+                                "portionSize": "Serves 1"
+                              },
+                              "ribbon": {
+                                
+                              },
+                              "type": "ITEM",
+                              "itemBadge": {
+                                
+                              },
+                              "badgesV2": {
+                                
+                              },
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.2",
+                                  "ratingCount": "258 ratings",
+                                  "ratingCountV2": "258"
+                                },
+                                "ratingsPresentationConfig": {
+                                  "bgGradient": {
+                                    "colours": [
+                                      "#C8F9E5",
+                                      "#00FFFFFF"
+                                    ],
+                                    "gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+                                  },
+                                  "ratingIconColor": "rating_very_good",
+                                  "ratingTextColor": "rating_very_good",
+                                  "ratingCountTextColor": "rating_very_good",
+                                  "ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+                                  "ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+                                }
+                              },
+                              "parentId": "58225670",
+                              "menuFilterIds": [
+                                "NONVEG",
+                                "toprated"
+                              ],
+                              "priceComparisonComms": {
+                                
+                              },
+                              "instrumentationMetaMap": {
+                                "swiggy_listing_price": "17000",
+                                "swiggy_final_price": "0"
+                              }
+                            },
+                            "analytics": {
+                              
+                            },
+                            "hideRestaurantDetails": true
+                          }
+                        }
+                      ],
+                      "subtitleSuffix": {
+                        
+                      },
+                      "image": "FOOD_CATALOG/IMAGES/CMS/2025/1/20/b0caf416-381b-4fca-8abd-ba6ec6d97b13_119b9343-c419-4dc9-a55c-508b08ed3334.JPG",
+                      "categoryId": "23315582"
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.gandalf.widgets.v2.GridWidget",
+                      "header": {
+                        "title": "Related to Hotel Riyaz Pot Biryani",
+                        "headerStyling": {
+                          "padding": {
+                            "left": 20,
+                            "top": 24,
+                            "bottom": 16
+                          },
+                          "titleSize": 18,
+                          "subtitleSize": 14,
+                          "titleColor": "#3e4152",
+                          "titleFontName": "FONT_NAME_ALL_CAPS_AC1"
+                        }
+                      },
+                      "layout": {
+                        "rows": 1,
+                        "columns": 6,
+                        "horizontalScrollEnabled": true,
+                        "widgetPadding": {
+                          
+                        },
+                        "containerStyle": {
+                          "containerPadding": {
+                            "left": 8,
+                            "right": 12,
+                            "bottom": 16
+                          }
+                        },
+                        "scrollBar": {
+                          "scrollThumbColor": "#E46D47",
+                          "scrollTrackColor": "#E4E4E4",
+                          "width": 54,
+                          "height": 4,
+                          "scrollStyling": {
+                            "padding": {
+                              "top": 6,
+                              "bottom": 24
+                            }
+                          }
+                        },
+                        "backgroundColor": "#F1F8FF",
+                        "widgetBorderStyle": {
+                          "top": {
+                            "color": "#E7F4FD",
+                            "height": 1
+                          },
+                          "bottom": {
+                            "color": "#E7F4FD",
+                            "height": 1
+                          },
+                          "left": {
+                            
+                          },
+                          "right": {
+                            
+                          }
+                        },
+                        "widgetTheme": {
+                          "defaultMode": {
+                            "backgroundColour": "#F0F0F5",
+                            "theme": "THEME_TYPE_LIGHT",
+                            "themeVariant": "THEME_VARIANT_DEFAULT"
+                          },
+                          "darkMode": {
+                            "backgroundColour": "#1B3028",
+                            "theme": "THEME_TYPE_DARK",
+                            "themeVariant": "THEME_VARIANT_DEFAULT"
+                          }
+                        }
+                      },
+                      "id": "adsOnlyMenuSimilarRestaurantWidgetUX4Test",
+                      "gridElements": {
+                        "infoWithStyle": {
+                          "@type": "type.googleapis.com/swiggy.presentation.food.v2.SimilarRestaurantsInfoWithStyle",
+                          "restaurants": [
+                            {
+                              "info": {
+                                "id": "427142",
+                                "name": "Behrouz Biryani",
+                                "slugs": {
+                                  "city": "Nellore"
+                                },
+                                "cloudinaryImageId": "1a8dfa8b2a73ddf7c6193465ab24c898",
+                                "locality": "Magunta Layout",
+                                "areaName": "Central Avenue",
+                                "costForTwo": "₹500 for two",
+                                "cuisines": [
+                                  "Biryani",
+                                  "North Indian",
+                                  "Kebabs",
+                                  "Mughlai",
+                                  "Lucknowi",
+                                  "Hyderabadi",
+                                  "Desserts",
+                                  "Beverages"
+                                ],
+                                "avgRating": 4.1,
+                                "parentId": "1803",
+                                "avgRatingString": "4.1",
+                                "totalRatingsString": "1.6K+",
+                                "adTrackingId": "cid=a8f6def0-8a0a-4555-8c14-4566c8bb7fc8~p=0~adgrpid=a8f6def0-8a0a-4555-8c14-4566c8bb7fc8#ag89~mp=SWIGGY_IN~bl=FOOD~aet=RESTAURANT~aeid=427142~plpr=HOME#SIMILAR_ENTITY~eid=6a170aae-e278-4763-baf2-f08e1fabb3f9~srvts=1783959185229~arid=552041",
+                                "sla": {
+                                  "deliveryTime": 27,
+                                  "lastMileTravel": 1.9,
+                                  "serviceability": "SERVICEABLE",
+                                  "slaString": "25-30 mins",
+                                  "lastMileTravelString": "1.9 km",
+                                  "iconType": "ICON_TYPE_EMPTY"
+                                },
+                                "availability": {
+                                  "nextCloseTime": "2026-07-13 23:59:00",
+                                  "opened": true
+                                },
+                                "badges": {
+                                  "imageBadges": [
+                                    {
+                                      "imageId": "brand_cards/Badges%202026/67_Best%20in%20Mughlai2026.png",
+                                      "description": "Top-rated for Mughlai, based on user votes."
+                                    },
+                                    {
+                                      "imageId": "newg.png",
+                                      "description": "Premium gourmet restaurant offering an elevated, high-quality food experience."
+                                    }
+                                  ]
+                                },
+                                "isOpen": true,
+                                "badgesV2": {
+                                  "entityBadges": {
+                                    "textBased": {
+                                      
+                                    },
+                                    "imageBased": {
+                                      "badgeObject": [
+                                        {
+                                          "attributes": {
+                                            "description": "Top-rated for Mughlai, based on user votes.",
+                                            "theme": "",
+                                            "imageId": "brand_cards/Badges%202026/67_Best%20in%20Mughlai2026.png"
+                                          }
+                                        },
+                                        {
+                                          "attributes": {
+                                            "description": "Premium gourmet restaurant offering an elevated, high-quality food experience.",
+                                            "theme": "",
+                                            "imageId": "newg.png"
+                                          }
+                                        }
+                                      ]
+                                    },
+                                    "textExtendedBadges": {
+                                      
+                                    }
+                                  }
+                                },
+                                "aggregatedDiscountInfoV3": {
+                                  "header": "ITEMS",
+                                  "subHeader": "AT ₹99",
+                                  "logoCtx": {
+                                    "text": "BENEFITS"
+                                  }
+                                },
+                                "cta": {
+                                  "link": "https://www.swiggy.com/city/nellore/behrouz-biryani-magunta-layout-central-avenue-rest427142",
+                                  "text": "RESTAURANT_MENU",
+                                  "type": "DEEPLINK"
+                                },
+                                "differentiatedUi": {
+                                  "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                                  "differentiatedUiMediaDetails": {
+                                    "mediaType": "ADS_MEDIA_ENUM_IMAGE"
+                                  }
+                                },
+                                "reviewsSummary": {
+                                  
+                                },
+                                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                                "restaurantOfferPresentationInfo": {
+                                  
+                                },
+                                "externalRatings": {
+                                  "aggregatedRating": {
+                                    "rating": "--"
+                                  }
+                                },
+                                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY",
+                                "campaignId": "a8f6def0-8a0a-4555-8c14-4566c8bb7fc8",
+                                "priceComparisonComms": {
+                                  
+                                }
+                              },
+                              "analytics": {
+                                "screenName": "ux4-home-page",
+                                "context": "{\"adTrackingId\":\"cid=a8f6def0-8a0a-4555-8c14-4566c8bb7fc8~p=0~adgrpid=a8f6def0-8a0a-4555-8c14-4566c8bb7fc8#ag89~mp=SWIGGY_IN~bl=FOOD~aet=RESTAURANT~aeid=427142~plpr=HOME#SIMILAR_ENTITY~eid=6a170aae-e278-4763-baf2-f08e1fabb3f9~srvts=1783959185229~arid=552041~wn=adsOnlyMenuSimilarRestaurantWidget~wn=adsOnlyMenuSimilarRestaurantWidget\",\"tid\":\"eyJLSUQiOiIyIiwiYWxnIjoiSFMyNTYiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE3ODM5NjE1MTksImlhdCI6MTc4Mzk1NzkxOSwic2Vzc2lvbl9kYXRhIjoiL2ZtWUY2cE0wRVBkNE53eUwxOTFRdTNsNkZ1YndUUVNjRWlrOVJKa2lpZ2NJcXFQa1dkeGxOM0xwb0pCMTJJYzNORUJPbWRidGZFUk9sZzAzUEZDQXVLL1NRSVk3Y25xQmVjRXJCMDd0RHRkMW9pb0FPa08zTWNIWmJpWDMvM1YwenZ1YjFwdkQ1QnhRNWpxZTRhNDhCbitGN05aL0xqRmlIL29IMWdIQVdvYU83c1piNVVmYkFvN1NId2xvNXVxR1RPOXp1UjcxUmUxNkw4UFdwbk9QZz09Iiwic2lkIjoic2dsMWIwNDJhZDctYWRhZS00YTM5LWE1NzYtZWNmNmVhYWQ2Iiwic3ViIjoiZGM0MTQ4Y2ItMDE4Ny00MDdjLThkOTQtYWQ3ZmJlMTM1MzE1IiwidXNlcl9pZCI6IjAifQ.sP2Pg9AxnMiEodgrm9wPOucj-9d_OEZBh1DlvUiXRtk\"}",
+                                "objectValue": "427142",
+                                "impressionObjectName": "impression-similar-restaurant-item-ad",
+                                "clickObjectName": "click-similar-restaurant-item-ad"
+                              },
+                              "cta": {
+                                "link": "https://www.swiggy.com/city/nellore/behrouz-biryani-magunta-layout-central-avenue-rest427142",
+                                "text": "RESTAURANT_MENU",
+                                "type": "DEEPLINK"
+                              }
+                            },
+                            {
+                              "info": {
+                                "id": "100610",
+                                "name": "Hotel Reshma",
+                                "slugs": {
+                                  "city": "Nellore"
+                                },
+                                "cloudinaryImageId": "xmndyfwz5vppvgmvruqj",
+                                "locality": "Vedayapalem",
+                                "areaName": "Nellore Area",
+                                "costForTwo": "₹500 for two",
+                                "cuisines": [
+                                  "Biryani",
+                                  "South Indian",
+                                  "Andhra"
+                                ],
+                                "avgRating": 4.3,
+                                "parentId": "452936",
+                                "avgRatingString": "4.3",
+                                "totalRatingsString": "23K+",
+                                "adTrackingId": "cid=93bd7b01-667c-413f-a3c6-f21d136fa58f~p=1~adgrpid=93bd7b01-667c-413f-a3c6-f21d136fa58f#ag1~mp=SWIGGY_IN~bl=FOOD~aet=RESTAURANT~aeid=100610~plpr=HOME#SIMILAR_ENTITY~eid=b8c786a5-7d30-4c57-93d1-ea46f5018937~srvts=1783959185229~arid=552041",
+                                "sla": {
+                                  "deliveryTime": 28,
+                                  "lastMileTravel": 4.1,
+                                  "serviceability": "SERVICEABLE",
+                                  "slaString": "25-30 mins",
+                                  "lastMileTravelString": "4.1 km",
+                                  "iconType": "ICON_TYPE_EMPTY"
+                                },
+                                "availability": {
+                                  "nextCloseTime": "2026-07-13 22:00:00",
+                                  "opened": true
+                                },
+                                "badges": {
+                                  "imageBadges": [
+                                    {
+                                      "imageId": "brand_cards/Badges%202026/39_Best%20in%20Biryani2026.png",
+                                      "description": "Top-rated for Biryani, based on user votes."
+                                    },
+                                    {
+                                      "imageId": "brand_cards/Badges%202026/40_Best%20in%20Bolt2026.png",
+                                      "description": "Top-rated for Bolt, based on user votes."
+                                    }
+                                  ]
+                                },
+                                "isOpen": true,
+                                "badgesV2": {
+                                  "entityBadges": {
+                                    "textExtendedBadges": {
+                                      
+                                    },
+                                    "textBased": {
+                                      
+                                    },
+                                    "imageBased": {
+                                      "badgeObject": [
+                                        {
+                                          "attributes": {
+                                            "imageId": "brand_cards/Badges%202026/39_Best%20in%20Biryani2026.png",
+                                            "description": "Top-rated for Biryani, based on user votes.",
+                                            "theme": ""
+                                          }
+                                        },
+                                        {
+                                          "attributes": {
+                                            "imageId": "brand_cards/Badges%202026/40_Best%20in%20Bolt2026.png",
+                                            "description": "Top-rated for Bolt, based on user votes.",
+                                            "theme": ""
+                                          }
+                                        }
+                                      ]
+                                    }
+                                  }
+                                },
+                                "aggregatedDiscountInfoV3": {
+                                  "header": "₹100 OFF",
+                                  "subHeader": "ABOVE ₹299",
+                                  "discountTag": "FLAT DEAL",
+                                  "logoCtx": {
+                                    "text": "BENEFITS"
+                                  }
+                                },
+                                "cta": {
+                                  "link": "https://www.swiggy.com/city/nellore/hotel-reshma-vedayapalem-nellore-area-rest100610",
+                                  "text": "RESTAURANT_MENU",
+                                  "type": "DEEPLINK"
+                                },
+                                "differentiatedUi": {
+                                  "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                                  "differentiatedUiMediaDetails": {
+                                    "mediaType": "ADS_MEDIA_ENUM_IMAGE"
+                                  }
+                                },
+                                "reviewsSummary": {
+                                  
+                                },
+                                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                                "restaurantOfferPresentationInfo": {
+                                  
+                                },
+                                "externalRatings": {
+                                  "aggregatedRating": {
+                                    "rating": "--"
+                                  }
+                                },
+                                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY",
+                                "campaignId": "93bd7b01-667c-413f-a3c6-f21d136fa58f",
+                                "priceComparisonComms": {
+                                  
+                                }
+                              },
+                              "analytics": {
+                                "screenName": "ux4-home-page",
+                                "context": "{\"adTrackingId\":\"cid=93bd7b01-667c-413f-a3c6-f21d136fa58f~p=1~adgrpid=93bd7b01-667c-413f-a3c6-f21d136fa58f#ag1~mp=SWIGGY_IN~bl=FOOD~aet=RESTAURANT~aeid=100610~plpr=HOME#SIMILAR_ENTITY~eid=b8c786a5-7d30-4c57-93d1-ea46f5018937~srvts=1783959185229~arid=552041~wn=adsOnlyMenuSimilarRestaurantWidget~wn=adsOnlyMenuSimilarRestaurantWidget\",\"tid\":\"eyJLSUQiOiIyIiwiYWxnIjoiSFMyNTYiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE3ODM5NjE1MTksImlhdCI6MTc4Mzk1NzkxOSwic2Vzc2lvbl9kYXRhIjoiL2ZtWUY2cE0wRVBkNE53eUwxOTFRdTNsNkZ1YndUUVNjRWlrOVJKa2lpZ2NJcXFQa1dkeGxOM0xwb0pCMTJJYzNORUJPbWRidGZFUk9sZzAzUEZDQXVLL1NRSVk3Y25xQmVjRXJCMDd0RHRkMW9pb0FPa08zTWNIWmJpWDMvM1YwenZ1YjFwdkQ1QnhRNWpxZTRhNDhCbitGN05aL0xqRmlIL29IMWdIQVdvYU83c1piNVVmYkFvN1NId2xvNXVxR1RPOXp1UjcxUmUxNkw4UFdwbk9QZz09Iiwic2lkIjoic2dsMWIwNDJhZDctYWRhZS00YTM5LWE1NzYtZWNmNmVhYWQ2Iiwic3ViIjoiZGM0MTQ4Y2ItMDE4Ny00MDdjLThkOTQtYWQ3ZmJlMTM1MzE1IiwidXNlcl9pZCI6IjAifQ.sP2Pg9AxnMiEodgrm9wPOucj-9d_OEZBh1DlvUiXRtk\"}",
+                                "objectValue": "100610",
+                                "impressionObjectName": "impression-similar-restaurant-item-ad",
+                                "clickObjectName": "click-similar-restaurant-item-ad"
+                              },
+                              "cta": {
+                                "link": "https://www.swiggy.com/city/nellore/hotel-reshma-vedayapalem-nellore-area-rest100610",
+                                "text": "RESTAURANT_MENU",
+                                "type": "DEEPLINK"
+                              }
+                            },
+                            {
+                              "info": {
+                                "id": "427148",
+                                "name": "The Biryani Life",
+                                "slugs": {
+                                  "city": "Nellore"
+                                },
+                                "cloudinaryImageId": "oq2hlnrultqivuhlf3u2",
+                                "locality": "Magunta Layout",
+                                "areaName": "Central Avenue",
+                                "costForTwo": "₹250 for two",
+                                "cuisines": [
+                                  "Biryani",
+                                  "Mughlai",
+                                  "Lucknowi",
+                                  "Hyderabadi",
+                                  "Kebabs",
+                                  "Desserts",
+                                  "Beverages"
+                                ],
+                                "avgRating": 4.2,
+                                "parentId": "8496",
+                                "avgRatingString": "4.2",
+                                "totalRatingsString": "1.4K+",
+                                "adTrackingId": "cid=abd70ae1-d6b2-40d5-9524-11f661b4202b~p=2~adgrpid=abd70ae1-d6b2-40d5-9524-11f661b4202b#ag89~mp=SWIGGY_IN~bl=FOOD~aet=RESTAURANT~aeid=427148~plpr=HOME#SIMILAR_ENTITY~eid=b0e60eb9-2301-4d00-b64b-7d19981b25f9~srvts=1783959185229~arid=552041",
+                                "sla": {
+                                  "deliveryTime": 23,
+                                  "lastMileTravel": 1.9,
+                                  "serviceability": "SERVICEABLE",
+                                  "slaString": "20-25 mins",
+                                  "lastMileTravelString": "1.9 km",
+                                  "iconType": "ICON_TYPE_EMPTY"
+                                },
+                                "availability": {
+                                  "nextCloseTime": "2026-07-13 23:59:00",
+                                  "opened": true
+                                },
+                                "badges": {
+                                  "imageBadges": [
+                                    {
+                                      "imageId": "brand_cards/Badges%202026/67_Best%20in%20Mughlai2026.png",
+                                      "description": "Top-rated for Mughlai, based on user votes."
+                                    }
+                                  ]
+                                },
+                                "isOpen": true,
+                                "badgesV2": {
+                                  "entityBadges": {
+                                    "textExtendedBadges": {
+                                      
+                                    },
+                                    "textBased": {
+                                      
+                                    },
+                                    "imageBased": {
+                                      "badgeObject": [
+                                        {
+                                          "attributes": {
+                                            "imageId": "brand_cards/Badges%202026/67_Best%20in%20Mughlai2026.png",
+                                            "description": "Top-rated for Mughlai, based on user votes.",
+                                            "theme": ""
+                                          }
+                                        }
+                                      ]
+                                    }
+                                  }
+                                },
+                                "aggregatedDiscountInfoV3": {
+                                  "header": "ITEMS",
+                                  "subHeader": "AT ₹99",
+                                  "logoCtx": {
+                                    "text": "BENEFITS"
+                                  }
+                                },
+                                "cta": {
+                                  "link": "https://www.swiggy.com/city/nellore/the-biryani-life-magunta-layout-central-avenue-rest427148",
+                                  "text": "RESTAURANT_MENU",
+                                  "type": "DEEPLINK"
+                                },
+                                "differentiatedUi": {
+                                  "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                                  "differentiatedUiMediaDetails": {
+                                    "mediaType": "ADS_MEDIA_ENUM_IMAGE"
+                                  }
+                                },
+                                "reviewsSummary": {
+                                  
+                                },
+                                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                                "restaurantOfferPresentationInfo": {
+                                  
+                                },
+                                "externalRatings": {
+                                  "aggregatedRating": {
+                                    "rating": "--"
+                                  }
+                                },
+                                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY",
+                                "campaignId": "abd70ae1-d6b2-40d5-9524-11f661b4202b",
+                                "priceComparisonComms": {
+                                  
+                                }
+                              },
+                              "analytics": {
+                                "screenName": "ux4-home-page",
+                                "context": "{\"adTrackingId\":\"cid=abd70ae1-d6b2-40d5-9524-11f661b4202b~p=2~adgrpid=abd70ae1-d6b2-40d5-9524-11f661b4202b#ag89~mp=SWIGGY_IN~bl=FOOD~aet=RESTAURANT~aeid=427148~plpr=HOME#SIMILAR_ENTITY~eid=b0e60eb9-2301-4d00-b64b-7d19981b25f9~srvts=1783959185229~arid=552041~wn=adsOnlyMenuSimilarRestaurantWidget~wn=adsOnlyMenuSimilarRestaurantWidget\",\"tid\":\"eyJLSUQiOiIyIiwiYWxnIjoiSFMyNTYiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE3ODM5NjE1MTksImlhdCI6MTc4Mzk1NzkxOSwic2Vzc2lvbl9kYXRhIjoiL2ZtWUY2cE0wRVBkNE53eUwxOTFRdTNsNkZ1YndUUVNjRWlrOVJKa2lpZ2NJcXFQa1dkeGxOM0xwb0pCMTJJYzNORUJPbWRidGZFUk9sZzAzUEZDQXVLL1NRSVk3Y25xQmVjRXJCMDd0RHRkMW9pb0FPa08zTWNIWmJpWDMvM1YwenZ1YjFwdkQ1QnhRNWpxZTRhNDhCbitGN05aL0xqRmlIL29IMWdIQVdvYU83c1piNVVmYkFvN1NId2xvNXVxR1RPOXp1UjcxUmUxNkw4UFdwbk9QZz09Iiwic2lkIjoic2dsMWIwNDJhZDctYWRhZS00YTM5LWE1NzYtZWNmNmVhYWQ2Iiwic3ViIjoiZGM0MTQ4Y2ItMDE4Ny00MDdjLThkOTQtYWQ3ZmJlMTM1MzE1IiwidXNlcl9pZCI6IjAifQ.sP2Pg9AxnMiEodgrm9wPOucj-9d_OEZBh1DlvUiXRtk\"}",
+                                "objectValue": "427148",
+                                "impressionObjectName": "impression-similar-restaurant-item-ad",
+                                "clickObjectName": "click-similar-restaurant-item-ad"
+                              },
+                              "cta": {
+                                "link": "https://www.swiggy.com/city/nellore/the-biryani-life-magunta-layout-central-avenue-rest427148",
+                                "text": "RESTAURANT_MENU",
+                                "type": "DEEPLINK"
+                              }
+                            },
+                            {
+                              "info": {
+                                "id": "575495",
+                                "name": "Paradise Biryani",
+                                "slugs": {
+                                  "city": "Nellore"
+                                },
+                                "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2026/3/26/fa006820-e275-484a-b105-e7ee088d1c85_575495.JPG",
+                                "locality": "Magunta Layout",
+                                "areaName": "Nellore",
+                                "costForTwo": "₹400 for two",
+                                "cuisines": [
+                                  "Biryani",
+                                  "Kebabs",
+                                  "North Indian",
+                                  "Hyderabadi"
+                                ],
+                                "avgRating": 4.3,
+                                "parentId": "700",
+                                "avgRatingString": "4.3",
+                                "totalRatingsString": "10K+",
+                                "adTrackingId": "cid=e76202c0-1839-4428-a236-c98e727d511e~p=3~adgrpid=e76202c0-1839-4428-a236-c98e727d511e#ag28~mp=SWIGGY_IN~bl=FOOD~aet=RESTAURANT~aeid=575495~plpr=HOME#SIMILAR_ENTITY~eid=e565cfbb-2e5d-4fc1-858d-13e3259d323a~srvts=1783959185229~arid=552041",
+                                "sla": {
+                                  "deliveryTime": 23,
+                                  "lastMileTravel": 1.9,
+                                  "serviceability": "SERVICEABLE",
+                                  "slaString": "20-25 mins",
+                                  "lastMileTravelString": "1.9 km",
+                                  "iconType": "ICON_TYPE_EMPTY"
+                                },
+                                "availability": {
+                                  "nextCloseTime": "2026-07-14 00:00:00",
+                                  "opened": true
+                                },
+                                "badges": {
+                                  
+                                },
+                                "isOpen": true,
+                                "badgesV2": {
+                                  "entityBadges": {
+                                    "textBased": {
+                                      
+                                    },
+                                    "imageBased": {
+                                      
+                                    },
+                                    "textExtendedBadges": {
+                                      
+                                    }
+                                  }
+                                },
+                                "aggregatedDiscountInfoV3": {
+                                  "header": "70% OFF",
+                                  "subHeader": "UPTO ₹130"
+                                },
+                                "cta": {
+                                  "link": "https://www.swiggy.com/city/nellore/paradise-biryani-magunta-layout-nellore-rest575495",
+                                  "text": "RESTAURANT_MENU",
+                                  "type": "DEEPLINK"
+                                },
+                                "differentiatedUi": {
+                                  "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                                  "differentiatedUiMediaDetails": {
+                                    "mediaType": "ADS_MEDIA_ENUM_IMAGE"
+                                  }
+                                },
+                                "reviewsSummary": {
+                                  
+                                },
+                                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                                "restaurantOfferPresentationInfo": {
+                                  
+                                },
+                                "externalRatings": {
+                                  "aggregatedRating": {
+                                    "rating": "--"
+                                  }
+                                },
+                                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY",
+                                "campaignId": "e76202c0-1839-4428-a236-c98e727d511e",
+                                "priceComparisonComms": {
+                                  
+                                }
+                              },
+                              "analytics": {
+                                "screenName": "ux4-home-page",
+                                "context": "{\"adTrackingId\":\"cid=e76202c0-1839-4428-a236-c98e727d511e~p=3~adgrpid=e76202c0-1839-4428-a236-c98e727d511e#ag28~mp=SWIGGY_IN~bl=FOOD~aet=RESTAURANT~aeid=575495~plpr=HOME#SIMILAR_ENTITY~eid=e565cfbb-2e5d-4fc1-858d-13e3259d323a~srvts=1783959185229~arid=552041~wn=adsOnlyMenuSimilarRestaurantWidget~wn=adsOnlyMenuSimilarRestaurantWidget\",\"tid\":\"eyJLSUQiOiIyIiwiYWxnIjoiSFMyNTYiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE3ODM5NjE1MTksImlhdCI6MTc4Mzk1NzkxOSwic2Vzc2lvbl9kYXRhIjoiL2ZtWUY2cE0wRVBkNE53eUwxOTFRdTNsNkZ1YndUUVNjRWlrOVJKa2lpZ2NJcXFQa1dkeGxOM0xwb0pCMTJJYzNORUJPbWRidGZFUk9sZzAzUEZDQXVLL1NRSVk3Y25xQmVjRXJCMDd0RHRkMW9pb0FPa08zTWNIWmJpWDMvM1YwenZ1YjFwdkQ1QnhRNWpxZTRhNDhCbitGN05aL0xqRmlIL29IMWdIQVdvYU83c1piNVVmYkFvN1NId2xvNXVxR1RPOXp1UjcxUmUxNkw4UFdwbk9QZz09Iiwic2lkIjoic2dsMWIwNDJhZDctYWRhZS00YTM5LWE1NzYtZWNmNmVhYWQ2Iiwic3ViIjoiZGM0MTQ4Y2ItMDE4Ny00MDdjLThkOTQtYWQ3ZmJlMTM1MzE1IiwidXNlcl9pZCI6IjAifQ.sP2Pg9AxnMiEodgrm9wPOucj-9d_OEZBh1DlvUiXRtk\"}",
+                                "objectValue": "575495",
+                                "impressionObjectName": "impression-similar-restaurant-item-ad",
+                                "clickObjectName": "click-similar-restaurant-item-ad"
+                              },
+                              "cta": {
+                                "link": "https://www.swiggy.com/city/nellore/paradise-biryani-magunta-layout-nellore-rest575495",
+                                "text": "RESTAURANT_MENU",
+                                "type": "DEEPLINK"
+                              }
+                            },
+                            {
+                              "info": {
+                                "id": "1345508",
+                                "name": "Hotel Madras Bilal",
+                                "slugs": {
+                                  "city": "Nellore"
+                                },
+                                "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2026/3/9/93cdd53b-390c-403f-be79-606c2718fe83_1345508.jpg",
+                                "locality": "Nellore Area",
+                                "areaName": "Nellore Area",
+                                "costForTwo": "₹249 for two",
+                                "cuisines": [
+                                  "Biryani",
+                                  "Indian",
+                                  "North Indian"
+                                ],
+                                "avgRating": 3.9,
+                                "parentId": "765463",
+                                "avgRatingString": "3.9",
+                                "totalRatingsString": "264",
+                                "adTrackingId": "cid=06752148-458a-48bb-986c-864480bd10e6~p=4~adgrpid=06752148-458a-48bb-986c-864480bd10e6#ag1~mp=SWIGGY_IN~bl=FOOD~aet=RESTAURANT~aeid=1345508~plpr=HOME#SIMILAR_ENTITY~eid=d783739c-a538-4c3b-b82d-126f77bab247~srvts=1783959185229~arid=552041",
+                                "sla": {
+                                  "deliveryTime": 21,
+                                  "lastMileTravel": 2.5,
+                                  "serviceability": "SERVICEABLE",
+                                  "slaString": "20-25 mins",
+                                  "lastMileTravelString": "2.5 km",
+                                  "iconType": "ICON_TYPE_EMPTY"
+                                },
+                                "availability": {
+                                  "nextCloseTime": "2026-07-13 23:00:00",
+                                  "opened": true
+                                },
+                                "badges": {
+                                  
+                                },
+                                "isOpen": true,
+                                "badgesV2": {
+                                  "entityBadges": {
+                                    "textExtendedBadges": {
+                                      
+                                    },
+                                    "textBased": {
+                                      
+                                    },
+                                    "imageBased": {
+                                      
+                                    }
+                                  }
+                                },
+                                "aggregatedDiscountInfoV3": {
+                                  "header": "70% OFF",
+                                  "subHeader": "UPTO ₹130",
+                                  "logoCtx": {
+                                    "text": "BENEFITS"
+                                  }
+                                },
+                                "cta": {
+                                  "link": "https://www.swiggy.com/city/nellore/hotel-madras-bilal-nellore-area-rest1345508",
+                                  "text": "RESTAURANT_MENU",
+                                  "type": "DEEPLINK"
+                                },
+                                "differentiatedUi": {
+                                  "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                                  "differentiatedUiMediaDetails": {
+                                    "mediaType": "ADS_MEDIA_ENUM_IMAGE"
+                                  }
+                                },
+                                "reviewsSummary": {
+                                  
+                                },
+                                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                                "isNewlyOnboarded": true,
+                                "restaurantOfferPresentationInfo": {
+                                  
+                                },
+                                "externalRatings": {
+                                  "aggregatedRating": {
+                                    "rating": "--"
+                                  }
+                                },
+                                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY",
+                                "campaignId": "06752148-458a-48bb-986c-864480bd10e6",
+                                "priceComparisonComms": {
+                                  
+                                }
+                              },
+                              "analytics": {
+                                "screenName": "ux4-home-page",
+                                "context": "{\"adTrackingId\":\"cid=06752148-458a-48bb-986c-864480bd10e6~p=4~adgrpid=06752148-458a-48bb-986c-864480bd10e6#ag1~mp=SWIGGY_IN~bl=FOOD~aet=RESTAURANT~aeid=1345508~plpr=HOME#SIMILAR_ENTITY~eid=d783739c-a538-4c3b-b82d-126f77bab247~srvts=1783959185229~arid=552041~wn=adsOnlyMenuSimilarRestaurantWidget~wn=adsOnlyMenuSimilarRestaurantWidget\",\"tid\":\"eyJLSUQiOiIyIiwiYWxnIjoiSFMyNTYiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE3ODM5NjE1MTksImlhdCI6MTc4Mzk1NzkxOSwic2Vzc2lvbl9kYXRhIjoiL2ZtWUY2cE0wRVBkNE53eUwxOTFRdTNsNkZ1YndUUVNjRWlrOVJKa2lpZ2NJcXFQa1dkeGxOM0xwb0pCMTJJYzNORUJPbWRidGZFUk9sZzAzUEZDQXVLL1NRSVk3Y25xQmVjRXJCMDd0RHRkMW9pb0FPa08zTWNIWmJpWDMvM1YwenZ1YjFwdkQ1QnhRNWpxZTRhNDhCbitGN05aL0xqRmlIL29IMWdIQVdvYU83c1piNVVmYkFvN1NId2xvNXVxR1RPOXp1UjcxUmUxNkw4UFdwbk9QZz09Iiwic2lkIjoic2dsMWIwNDJhZDctYWRhZS00YTM5LWE1NzYtZWNmNmVhYWQ2Iiwic3ViIjoiZGM0MTQ4Y2ItMDE4Ny00MDdjLThkOTQtYWQ3ZmJlMTM1MzE1IiwidXNlcl9pZCI6IjAifQ.sP2Pg9AxnMiEodgrm9wPOucj-9d_OEZBh1DlvUiXRtk\"}",
+                                "objectValue": "1345508",
+                                "impressionObjectName": "impression-similar-restaurant-item-ad",
+                                "clickObjectName": "click-similar-restaurant-item-ad"
+                              },
+                              "cta": {
+                                "link": "https://www.swiggy.com/city/nellore/hotel-madras-bilal-nellore-area-rest1345508",
+                                "text": "RESTAURANT_MENU",
+                                "type": "DEEPLINK"
+                              }
+                            },
+                            {
+                              "info": {
+                                "id": "735758",
+                                "name": "Red Bucket Biryani",
+                                "slugs": {
+                                  "city": "Nellore"
+                                },
+                                "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/4/21/902b5fcb-ee94-4bf1-bec4-fc92e6bee39e_735758 ss.jpg",
+                                "locality": "Trunk Road",
+                                "areaName": "Magunta Layout",
+                                "costForTwo": "₹499 for two",
+                                "cuisines": [
+                                  "Biryani"
+                                ],
+                                "avgRating": 4.1,
+                                "parentId": "306664",
+                                "avgRatingString": "4.1",
+                                "totalRatingsString": "5.1K+",
+                                "adTrackingId": "cid=fd184a74-70c4-49c2-bc8d-d7f66c447a6b~p=5~adgrpid=fd184a74-70c4-49c2-bc8d-d7f66c447a6b#ag1~mp=SWIGGY_IN~bl=FOOD~aet=RESTAURANT~aeid=735758~plpr=HOME#SIMILAR_ENTITY~eid=f538db97-29b0-4471-9155-270f5b909af2~srvts=1783959185229~arid=552041",
+                                "sla": {
+                                  "deliveryTime": 22,
+                                  "lastMileTravel": 2.6,
+                                  "serviceability": "SERVICEABLE",
+                                  "slaString": "20-25 mins",
+                                  "lastMileTravelString": "2.6 km",
+                                  "iconType": "ICON_TYPE_EMPTY"
+                                },
+                                "availability": {
+                                  "nextCloseTime": "2026-07-13 23:00:00",
+                                  "opened": true
+                                },
+                                "badges": {
+                                  "imageBadges": [
+                                    {
+                                      "imageId": "brand_cards/Badges%202026/39_Best%20in%20Biryani2026.png",
+                                      "description": "Top-rated for Biryani, based on user votes."
+                                    },
+                                    {
+                                      "imageId": "brand_cards/Badges%202026/40_Best%20in%20Bolt2026.png",
+                                      "description": "Top-rated for Bolt, based on user votes."
+                                    }
+                                  ]
+                                },
+                                "isOpen": true,
+                                "badgesV2": {
+                                  "entityBadges": {
+                                    "textExtendedBadges": {
+                                      
+                                    },
+                                    "textBased": {
+                                      
+                                    },
+                                    "imageBased": {
+                                      "badgeObject": [
+                                        {
+                                          "attributes": {
+                                            "imageId": "brand_cards/Badges%202026/39_Best%20in%20Biryani2026.png",
+                                            "description": "Top-rated for Biryani, based on user votes.",
+                                            "theme": ""
+                                          }
+                                        },
+                                        {
+                                          "attributes": {
+                                            "description": "Top-rated for Bolt, based on user votes.",
+                                            "theme": "",
+                                            "imageId": "brand_cards/Badges%202026/40_Best%20in%20Bolt2026.png"
+                                          }
+                                        }
+                                      ]
+                                    }
+                                  }
+                                },
+                                "aggregatedDiscountInfoV3": {
+                                  "header": "70% OFF",
+                                  "subHeader": "UPTO ₹140",
+                                  "logoCtx": {
+                                    "text": "BENEFITS"
+                                  }
+                                },
+                                "cta": {
+                                  "link": "https://www.swiggy.com/city/nellore/red-bucket-biryani-trunk-road-magunta-layout-rest735758",
+                                  "text": "RESTAURANT_MENU",
+                                  "type": "DEEPLINK"
+                                },
+                                "differentiatedUi": {
+                                  "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                                  "differentiatedUiMediaDetails": {
+                                    "mediaType": "ADS_MEDIA_ENUM_IMAGE"
+                                  }
+                                },
+                                "reviewsSummary": {
+                                  
+                                },
+                                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                                "restaurantOfferPresentationInfo": {
+                                  
+                                },
+                                "externalRatings": {
+                                  "aggregatedRating": {
+                                    "rating": "--"
+                                  }
+                                },
+                                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY",
+                                "campaignId": "fd184a74-70c4-49c2-bc8d-d7f66c447a6b",
+                                "priceComparisonComms": {
+                                  
+                                }
+                              },
+                              "analytics": {
+                                "screenName": "ux4-home-page",
+                                "context": "{\"adTrackingId\":\"cid=fd184a74-70c4-49c2-bc8d-d7f66c447a6b~p=5~adgrpid=fd184a74-70c4-49c2-bc8d-d7f66c447a6b#ag1~mp=SWIGGY_IN~bl=FOOD~aet=RESTAURANT~aeid=735758~plpr=HOME#SIMILAR_ENTITY~eid=f538db97-29b0-4471-9155-270f5b909af2~srvts=1783959185229~arid=552041~wn=adsOnlyMenuSimilarRestaurantWidget~wn=adsOnlyMenuSimilarRestaurantWidget\",\"tid\":\"eyJLSUQiOiIyIiwiYWxnIjoiSFMyNTYiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE3ODM5NjE1MTksImlhdCI6MTc4Mzk1NzkxOSwic2Vzc2lvbl9kYXRhIjoiL2ZtWUY2cE0wRVBkNE53eUwxOTFRdTNsNkZ1YndUUVNjRWlrOVJKa2lpZ2NJcXFQa1dkeGxOM0xwb0pCMTJJYzNORUJPbWRidGZFUk9sZzAzUEZDQXVLL1NRSVk3Y25xQmVjRXJCMDd0RHRkMW9pb0FPa08zTWNIWmJpWDMvM1YwenZ1YjFwdkQ1QnhRNWpxZTRhNDhCbitGN05aL0xqRmlIL29IMWdIQVdvYU83c1piNVVmYkFvN1NId2xvNXVxR1RPOXp1UjcxUmUxNkw4UFdwbk9QZz09Iiwic2lkIjoic2dsMWIwNDJhZDctYWRhZS00YTM5LWE1NzYtZWNmNmVhYWQ2Iiwic3ViIjoiZGM0MTQ4Y2ItMDE4Ny00MDdjLThkOTQtYWQ3ZmJlMTM1MzE1IiwidXNlcl9pZCI6IjAifQ.sP2Pg9AxnMiEodgrm9wPOucj-9d_OEZBh1DlvUiXRtk\"}",
+                                "objectValue": "735758",
+                                "impressionObjectName": "impression-similar-restaurant-item-ad",
+                                "clickObjectName": "click-similar-restaurant-item-ad"
+                              },
+                              "cta": {
+                                "link": "https://www.swiggy.com/city/nellore/red-bucket-biryani-trunk-road-magunta-layout-rest735758",
+                                "text": "RESTAURANT_MENU",
+                                "type": "DEEPLINK"
+                              }
+                            }
+                          ],
+                          "widgetType": "WIDGET_TYPE_SRW",
+                          "style": {
+                            
+                          }
+                        }
+                      }
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.gandalf.widgets.v2.SeoContent",
+                      "title": "About Hotel Riyaz Pot Biryani",
+                      "description": "<section><h3>Best-Selling Dishes at Hotel Riyaz Pot Biryani</h3><p>Hotel Riyaz Pot Biryani is a popular food destination in Achari Street, Nellore, known for serving delicious indian food. Customers can order from Hotel Riyaz Pot Biryani for fresh preparation, satisfying portions, and flavorful dishes.</p><h3>Chicken Biryani</h3><p>Chicken Biryani is one of the popular dishes at Hotel Riyaz Pot Biryani. It is prepared with quality ingredients and offers a satisfying taste for customers ordering from Achari Street.</p><h3>Chicken Fry Biryani</h3><p>Chicken Fry Biryani is another preferred item from the menu. It is a good choice for customers looking to enjoy tasty indian food in Nellore.</p><h3>Why Customers Love Ordering from Hotel Riyaz Pot Biryani</h3><p>Customers prefer Hotel Riyaz Pot Biryani for its tasty food, reliable service, quick preparation, and menu choices. The restaurant serves indian dishes along with options such as parotta, making it suitable for different food preferences.</p><h3>Enjoy Food from Hotel Riyaz Pot Biryani at Home with Swiggy</h3><p>Swiggy makes it easy to order food from Hotel Riyaz Pot Biryani in Nellore. Customers can browse the menu, choose their favorite dishes, place an order online, make secure payments, track the order live, and enjoy doorstep delivery from Hotel Riyaz Pot Biryani in Achari Street.</p><h3>Discover More Restaurants in Achari Street</h3><p>Achari Street has many restaurants offering different cuisines, snacks, meals, desserts, and beverages. Customers exploring food delivery in Nellore can discover more restaurants and order their favorite food online through Swiggy.</p></section>"
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.gandalf.widgets.v2.FAQSection",
+                      "title": "FAQs about Hotel Riyaz Pot Biryani",
+                      "qnas": [
+                        {
+                          "question": "Does Hotel Riyaz Pot Biryani deliver food in Nellore on Swiggy?",
+                          "answer": "Yes, Hotel Riyaz Pot Biryani delivers food in Nellore through Swiggy. Customers can order their favorite dishes online and enjoy doorstep delivery."
+                        },
+                        {
+                          "question": "What is Hotel Riyaz Pot Biryani known for?",
+                          "answer": "Hotel Riyaz Pot Biryani is known for its indian and popular indian dishes."
+                        },
+                        {
+                          "question": "What are the most popular dishes at Hotel Riyaz Pot Biryani?",
+                          "answer": "Some of the popular dishes at Hotel Riyaz Pot Biryani include Chicken Biryani, Chicken Fry Biryani, Chicken Roast Biryani, and Chicken Curry Bone."
+                        },
+                        {
+                          "question": "Does Hotel Riyaz Pot Biryani offer vegetarian options?",
+                          "answer": "Yes, Hotel Riyaz Pot Biryani offers non-veg options, including 0 vegetarian items."
+                        },
+                        {
+                          "question": "How can I order from Hotel Riyaz Pot Biryani online?",
+                          "answer": "Customers can open the Swiggy app or website, search for Hotel Riyaz Pot Biryani in Nellore, browse the menu, add dishes to the cart, and place the order online."
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.RestaurantLicenseInfo",
+                      "type": "FSSAI",
+                      "imageId": "fssai_final_edss9i",
+                      "text": [
+                        "License No. 10123009000457"
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.RestaurantAddress",
+                      "name": "Hotel Riyaz Pot Biryani",
+                      "area": "Achari Street",
+                      "completeAddress": "Achari street near old zilla parishad office main road , Akkacheruvupadu, Nellore, Nellore, Andhra Pradesh, 524001"
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.gandalf.widgets.v2.PopularSearches",
+                      "title": "Popular Searches",
+                      "interlinkingSeoInfo": [
+                        {
+                          "title": "Popular Restaurant In Nellore",
+                          "links": [
+                            {
+                              "label": "Namahaa Tiffin Room",
+                              "url": "https://www.swiggy.com/city/nellore/namahaa-tiffin-room-magunta-layout-rest849146"
+                            },
+                            {
+                              "label": "Muralikrishna Veg",
+                              "url": "https://www.swiggy.com/city/nellore/muralikrishna-veg-madras-busstand-rest103740"
+                            },
+                            {
+                              "label": "Muralikrishna Ghee Sweets",
+                              "url": "https://www.swiggy.com/city/nellore/muralikrishna-ghee-sweets-madras-busstand-rest103738"
+                            },
+                            {
+                              "label": "Salma Biryani",
+                              "url": "https://www.swiggy.com/city/nellore/salma-biryani-masjid-center-rest98469"
+                            },
+                            {
+                              "label": "A2B - Adyar Ananda Bhavan",
+                              "url": "https://www.swiggy.com/city/nellore/a2b-adyar-ananda-bhavan-dr-mall-rest320507"
+                            },
+                            {
+                              "label": "Asli nellore family dhaba and restaurant",
+                              "url": "https://www.swiggy.com/city/nellore/asli-nellore-family-dhaba-and-restaurant-jagadeesh-nagar-rest479883"
+                            },
+                            {
+                              "label": "McDonald's",
+                              "url": "https://www.swiggy.com/city/nellore/mcdonalds-mgb-felicity-mall-rest98206"
+                            },
+                            {
+                              "label": "Paradise Biryani",
+                              "url": "https://www.swiggy.com/city/nellore/paradise-biryani-magunta-layout-rest575495"
+                            },
+                            {
+                              "label": "Pariwar Paradise",
+                              "url": "https://www.swiggy.com/city/nellore/pariwar-paradise-ramesh-reddy-nagar-rest98466"
+                            },
+                            {
+                              "label": "Sri lakshmi srinivasa vilas",
+                              "url": "https://www.swiggy.com/city/nellore/sri-lakshmi-srinivasa-vilas-kvr-nagar-rest385290"
+                            },
+                            {
+                              "label": "Amigos",
+                              "url": "https://www.swiggy.com/city/nellore/amigos-srihari-nagar-rest99238"
+                            },
+                            {
+                              "label": "Sri Venkataramana hotel",
+                              "url": "https://www.swiggy.com/city/nellore/sri-venkataramana-hotel-thayagaraju-nagar-rest426038"
+                            },
+                            {
+                              "label": "Red Bucket Biryani",
+                              "url": "https://www.swiggy.com/city/nellore/red-bucket-biryani-trunk-road-rest735758"
+                            },
+                            {
+                              "label": "Komala Vilas",
+                              "url": "https://www.swiggy.com/city/nellore/komala-vilas-nellore-area-rest1360846"
+                            },
+                            {
+                              "label": "Naidu Gari kunda Biryani",
+                              "url": "https://www.swiggy.com/city/nellore/naidu-gari-kunda-biryani-magunta-layout-rest635348"
+                            },
+                            {
+                              "label": "Ravi Fast Food Center",
+                              "url": "https://www.swiggy.com/city/nellore/ravi-fast-food-center-nellore-area-rest1318799"
+                            },
+                            {
+                              "label": "Sri Balaji Bhavan",
+                              "url": "https://www.swiggy.com/city/nellore/sri-balaji-bhavan-ramji-nagar-rest640962"
+                            },
+                            {
+                              "label": "KFC",
+                              "url": "https://www.swiggy.com/city/nellore/kfc-ctr-arcade-rest458212"
+                            },
+                            {
+                              "label": "Babu Ice Creams",
+                              "url": "https://www.swiggy.com/city/nellore/babu-ice-creams-subedarpet-road-rest188477"
+                            },
+                            {
+                              "label": "Hotel Riyaz Pot Biryani",
+                              "url": "https://www.swiggy.com/city/nellore/hotel-riyaz-pot-biryani-achari-street-rest552041"
+                            },
+                            {
+                              "label": "Muralikrishna 70",
+                              "url": "https://www.swiggy.com/city/nellore/muralikrishna-70-madras-busstand-rest103739"
+                            },
+                            {
+                              "label": "Hotel Rayalaseema's",
+                              "url": "https://www.swiggy.com/city/nellore/hotel-rayalaseemas-grand-trunk-road-rest193960"
+                            },
+                            {
+                              "label": "Sri Vengamamba Punjabi Family Dhaba",
+                              "url": "https://www.swiggy.com/city/nellore/sri-vengamamba-punjabi-family-dhaba-magunta-layout-rest588609"
+                            },
+                            {
+                              "label": "Hotel Reshma",
+                              "url": "https://www.swiggy.com/city/nellore/hotel-reshma-vedayapalem-rest100610"
+                            },
+                            {
+                              "label": "GSP Hyderabad dum biriyani",
+                              "url": "https://www.swiggy.com/city/nellore/gsp-hyderabad-dum-biriyani-mgb-mall-rest306649"
+                            },
+                            {
+                              "label": "Aalaya Pure veg",
+                              "url": "https://www.swiggy.com/city/nellore/aalaya-pure-veg-nellore-area-rest1360284"
+                            },
+                            {
+                              "label": "Rayalaseema Military Hotel",
+                              "url": "https://www.swiggy.com/city/nellore/rayalaseema-military-hotel-nellore-area-rest944616"
+                            },
+                            {
+                              "label": "Pizza Hut",
+                              "url": "https://www.swiggy.com/city/nellore/pizza-hut-mini-bypass-rest651018"
+                            },
+                            {
+                              "label": "Sai Ram Mallareddy Dhaba",
+                              "url": "https://www.swiggy.com/city/nellore/sai-ram-mallareddy-dhaba-nellore-area-rest1345118"
+                            },
+                            {
+                              "label": "Udipis Upahar",
+                              "url": "https://www.swiggy.com/city/nellore/udipis-upahar-nellore-area-rest1371457"
+                            },
+                            {
+                              "label": "Hotel Sri Durga",
+                              "url": "https://www.swiggy.com/city/nellore/hotel-sri-durga-james-garden-rest588424"
+                            },
+                            {
+                              "label": "Padmavati Taza Tindi ( Venkataramana Vilas )",
+                              "url": "https://www.swiggy.com/city/nellore/padmavati-taza-tindi-venkataramana-vilas--trunk-road-rest711306"
+                            },
+                            {
+                              "label": "Exotica cakes",
+                              "url": "https://www.swiggy.com/city/nellore/exotica-cakes-magunta-layout-rest327093"
+                            },
+                            {
+                              "label": "Blue Fox - Hotel Minerva Grand",
+                              "url": "https://www.swiggy.com/city/nellore/blue-fox-hotel-minerva-grand-grand-trunk-road-rest105256"
+                            },
+                            {
+                              "label": "Arogya Idlis",
+                              "url": "https://www.swiggy.com/city/nellore/arogya-idlis-ramji-nagar-rest340218"
+                            },
+                            {
+                              "label": "Sri Lakshmi Srinivasa Bhavan",
+                              "url": "https://www.swiggy.com/city/nellore/sri-lakshmi-srinivasa-bhavan-somasekara-puram-rest113012"
+                            },
+                            {
+                              "label": "Chef Street",
+                              "url": "https://www.swiggy.com/city/nellore/chef-street-nellore-area-rest1078363"
+                            },
+                            {
+                              "label": "Raju Gari Kodi Pulao",
+                              "url": "https://www.swiggy.com/city/nellore/raju-gari-kodi-pulao-nellore-area-rest1058617"
+                            },
+                            {
+                              "label": "Domino's Pizza",
+                              "url": "https://www.swiggy.com/city/nellore/dominos-pizza-thayagaraju-nagar-rest421686"
+                            },
+                            {
+                              "label": "New Alekhya Ghee Sweets & Bakery",
+                              "url": "https://www.swiggy.com/city/nellore/new-alekhya-ghee-sweets-and-bakery-nellore-area-rest1011216"
+                            },
+                            {
+                              "label": " Rayalaseema Ruchulu",
+                              "url": "https://www.swiggy.com/city/nellore/-rayalaseema-ruchulu-grand-trunk-road-rest100669"
+                            },
+                            {
+                              "label": "Subway",
+                              "url": "https://www.swiggy.com/city/nellore/subway-dargamitta-rest1289238"
+                            },
+                            {
+                              "label": "Chaat Bazaar",
+                              "url": "https://www.swiggy.com/city/nellore/chaat-bazaar-gandhi-nagar-rest393346"
+                            },
+                            {
+                              "label": "Sitara Restaurant",
+                              "url": "https://www.swiggy.com/city/nellore/sitara-restaurant-childrens-park-road-rest716686"
+                            },
+                            {
+                              "label": "Bahubali restaurant",
+                              "url": "https://www.swiggy.com/city/nellore/bahubali-restaurant-children-park-road-rest414670"
+                            },
+                            {
+                              "label": "Faasos - Wraps, Rolls & Shawarma",
+                              "url": "https://www.swiggy.com/city/nellore/faasos-wraps-rolls-and-shawarma-magunta-layout-rest427141"
+                            },
+                            {
+                              "label": "Guma Gumalu Authentic Restaurant",
+                              "url": "https://www.swiggy.com/city/nellore/guma-gumalu-authentic-restaurant-harinathpuram-rest767633"
+                            },
+                            {
+                              "label": "CakeZone Patisserie",
+                              "url": "https://www.swiggy.com/city/nellore/cakezone-patisserie-subedarpet-road-rest488165"
+                            },
+                            {
+                              "label": "Sai Priya Hot Foods",
+                              "url": "https://www.swiggy.com/city/nellore/sai-priya-hot-foods-nellore-area-rest1049541"
+                            },
+                            {
+                              "label": "Surya hot foods",
+                              "url": "https://www.swiggy.com/city/nellore/surya-hot-foods-achari-street-rest288268"
+                            }
+                          ]
+                        },
+                        {
+                          "title": "City Hub Page",
+                          "links": [
+                            {
+                              "label": "Bangalore",
+                              "url": "https://www.swiggy.com/city/bangalore/order-online"
+                            },
+                            {
+                              "label": "Hyderabad",
+                              "url": "https://www.swiggy.com/city/hyderabad/order-online"
+                            },
+                            {
+                              "label": "Mumbai",
+                              "url": "https://www.swiggy.com/city/mumbai/order-online"
+                            },
+                            {
+                              "label": "Chennai",
+                              "url": "https://www.swiggy.com/city/chennai/order-online"
+                            },
+                            {
+                              "label": "Delhi",
+                              "url": "https://www.swiggy.com/city/delhi/order-online"
+                            },
+                            {
+                              "label": "Pune",
+                              "url": "https://www.swiggy.com/city/pune/order-online"
+                            },
+                            {
+                              "label": "Kolkata",
+                              "url": "https://www.swiggy.com/city/kolkata/order-online"
+                            },
+                            {
+                              "label": "Gurgaon",
+                              "url": "https://www.swiggy.com/city/gurgaon/order-online"
+                            },
+                            {
+                              "label": "Noida 1",
+                              "url": "https://www.swiggy.com/city/noida-1/order-online"
+                            },
+                            {
+                              "label": "Kochi",
+                              "url": "https://www.swiggy.com/city/kochi/order-online"
+                            },
+                            {
+                              "label": "Ahmedabad",
+                              "url": "https://www.swiggy.com/city/ahmedabad/order-online"
+                            },
+                            {
+                              "label": "Chandigarh",
+                              "url": "https://www.swiggy.com/city/chandigarh/order-online"
+                            },
+                            {
+                              "label": "Coimbatore",
+                              "url": "https://www.swiggy.com/city/coimbatore/order-online"
+                            },
+                            {
+                              "label": "Jaipur",
+                              "url": "https://www.swiggy.com/city/jaipur/order-online"
+                            },
+                            {
+                              "label": "Lucknow",
+                              "url": "https://www.swiggy.com/city/lucknow/order-online"
+                            },
+                            {
+                              "label": "Thiruvananthapuram",
+                              "url": "https://www.swiggy.com/city/thiruvananthapuram/order-online"
+                            },
+                            {
+                              "label": "Vizag",
+                              "url": "https://www.swiggy.com/city/vizag/order-online"
+                            },
+                            {
+                              "label": "Central Goa",
+                              "url": "https://www.swiggy.com/city/central-goa/order-online"
+                            },
+                            {
+                              "label": "Noida",
+                              "url": "https://www.swiggy.com/city/noida/order-online"
+                            },
+                            {
+                              "label": "Surat",
+                              "url": "https://www.swiggy.com/city/surat/order-online"
+                            },
+                            {
+                              "label": "Bhubaneswar",
+                              "url": "https://www.swiggy.com/city/bhubaneswar/order-online"
+                            },
+                            {
+                              "label": "Indore",
+                              "url": "https://www.swiggy.com/city/indore/order-online"
+                            },
+                            {
+                              "label": "Nagpur",
+                              "url": "https://www.swiggy.com/city/nagpur/order-online"
+                            },
+                            {
+                              "label": "Vijayawada",
+                              "url": "https://www.swiggy.com/city/vijayawada/order-online"
+                            },
+                            {
+                              "label": "Patna",
+                              "url": "https://www.swiggy.com/city/patna/order-online"
+                            },
+                            {
+                              "label": "Guwahati",
+                              "url": "https://www.swiggy.com/city/guwahati/order-online"
+                            },
+                            {
+                              "label": "Ludhiana",
+                              "url": "https://www.swiggy.com/city/ludhiana/order-online"
+                            },
+                            {
+                              "label": "Vadodara",
+                              "url": "https://www.swiggy.com/city/vadodara/order-online"
+                            },
+                            {
+                              "label": "Mangaluru",
+                              "url": "https://www.swiggy.com/city/mangaluru/order-online"
+                            },
+                            {
+                              "label": "Mysore",
+                              "url": "https://www.swiggy.com/city/mysore/order-online"
+                            },
+                            {
+                              "label": "Dehradun",
+                              "url": "https://www.swiggy.com/city/dehradun/order-online"
+                            },
+                            {
+                              "label": "Faridabad",
+                              "url": "https://www.swiggy.com/city/faridabad/order-online"
+                            },
+                            {
+                              "label": "Thrissur",
+                              "url": "https://www.swiggy.com/city/thrissur/order-online"
+                            },
+                            {
+                              "label": "Bhopal",
+                              "url": "https://www.swiggy.com/city/bhopal/order-online"
+                            },
+                            {
+                              "label": "Rajkot",
+                              "url": "https://www.swiggy.com/city/rajkot/order-online"
+                            },
+                            {
+                              "label": "Madurai",
+                              "url": "https://www.swiggy.com/city/madurai/order-online"
+                            },
+                            {
+                              "label": "Kanpur",
+                              "url": "https://www.swiggy.com/city/kanpur/order-online"
+                            },
+                            {
+                              "label": "Kozhikode",
+                              "url": "https://www.swiggy.com/city/kozhikode/order-online"
+                            },
+                            {
+                              "label": "Pondicherry",
+                              "url": "https://www.swiggy.com/city/pondicherry/order-online"
+                            },
+                            {
+                              "label": "Varanasi",
+                              "url": "https://www.swiggy.com/city/varanasi/order-online"
+                            },
+                            {
+                              "label": "Nashik",
+                              "url": "https://www.swiggy.com/city/nashik/order-online"
+                            },
+                            {
+                              "label": "Tirupati",
+                              "url": "https://www.swiggy.com/city/tirupati/order-online"
+                            },
+                            {
+                              "label": "Guntur",
+                              "url": "https://www.swiggy.com/city/guntur/order-online"
+                            },
+                            {
+                              "label": "Trichy",
+                              "url": "https://www.swiggy.com/city/trichy/order-online"
+                            },
+                            {
+                              "label": "Kota",
+                              "url": "https://www.swiggy.com/city/kota/order-online"
+                            },
+                            {
+                              "label": "Raipur",
+                              "url": "https://www.swiggy.com/city/raipur/order-online"
+                            },
+                            {
+                              "label": "Kollam",
+                              "url": "https://www.swiggy.com/city/kollam/order-online"
+                            },
+                            {
+                              "label": "Vellore",
+                              "url": "https://www.swiggy.com/city/vellore/order-online"
+                            },
+                            {
+                              "label": "Ranchi",
+                              "url": "https://www.swiggy.com/city/ranchi/order-online"
+                            },
+                            {
+                              "label": "Jalandhar",
+                              "url": "https://www.swiggy.com/city/jalandhar/order-online"
+                            }
+                          ]
+                        },
+                        {
+                          "title": "Popular Dish Restaurants in Nellore",
+                          "links": [
+                            {
+                              "label": "Biryani",
+                              "url": "https://www.swiggy.com/city/nellore/biryani-dish-restaurants"
+                            },
+                            {
+                              "label": "Dosa",
+                              "url": "https://www.swiggy.com/city/nellore/dosa-dish-restaurants"
+                            },
+                            {
+                              "label": "Idli",
+                              "url": "https://www.swiggy.com/city/nellore/idli-dish-restaurants"
+                            },
+                            {
+                              "label": "Fried rice",
+                              "url": "https://www.swiggy.com/city/nellore/fried-rice-dish-restaurants"
+                            },
+                            {
+                              "label": "Other rice varieties",
+                              "url": "https://www.swiggy.com/city/nellore/other-rice-varieties-dish-restaurants"
+                            },
+                            {
+                              "label": "Pizza",
+                              "url": "https://www.swiggy.com/city/nellore/pizza-dish-restaurants"
+                            },
+                            {
+                              "label": "Curry",
+                              "url": "https://www.swiggy.com/city/nellore/curry-dish-restaurants"
+                            },
+                            {
+                              "label": "Burger",
+                              "url": "https://www.swiggy.com/city/nellore/burger-dish-restaurants"
+                            },
+                            {
+                              "label": "Noodles",
+                              "url": "https://www.swiggy.com/city/nellore/noodles-dish-restaurants"
+                            },
+                            {
+                              "label": "Poori (Breakfast)",
+                              "url": "https://www.swiggy.com/city/nellore/poori-breakfast--dish-restaurants"
+                            },
+                            {
+                              "label": "Other dry starters",
+                              "url": "https://www.swiggy.com/city/nellore/other-dry-starters-dish-restaurants"
+                            },
+                            {
+                              "label": "Roti",
+                              "url": "https://www.swiggy.com/city/nellore/roti-dish-restaurants"
+                            },
+                            {
+                              "label": "Roll",
+                              "url": "https://www.swiggy.com/city/nellore/roll-dish-restaurants"
+                            },
+                            {
+                              "label": "Pongal",
+                              "url": "https://www.swiggy.com/city/nellore/pongal-dish-restaurants"
+                            },
+                            {
+                              "label": "Vada",
+                              "url": "https://www.swiggy.com/city/nellore/vada-dish-restaurants"
+                            },
+                            {
+                              "label": "Sandwich",
+                              "url": "https://www.swiggy.com/city/nellore/sandwich-dish-restaurants"
+                            },
+                            {
+                              "label": "Shawarma",
+                              "url": "https://www.swiggy.com/city/nellore/shawarma-dish-restaurants"
+                            },
+                            {
+                              "label": "Pesarattu",
+                              "url": "https://www.swiggy.com/city/nellore/pesarattu-dish-restaurants"
+                            },
+                            {
+                              "label": "Pulao",
+                              "url": "https://www.swiggy.com/city/nellore/pulao-dish-restaurants"
+                            },
+                            {
+                              "label": "Uttapam",
+                              "url": "https://www.swiggy.com/city/nellore/uttapam-dish-restaurants"
+                            },
+                            {
+                              "label": "Parotta",
+                              "url": "https://www.swiggy.com/city/nellore/parotta-dish-restaurants"
+                            },
+                            {
+                              "label": "Shake",
+                              "url": "https://www.swiggy.com/city/nellore/shake-dish-restaurants"
+                            },
+                            {
+                              "label": "Momos",
+                              "url": "https://www.swiggy.com/city/nellore/momos-dish-restaurants"
+                            },
+                            {
+                              "label": "Pav bhaji",
+                              "url": "https://www.swiggy.com/city/nellore/pav-bhaji-dish-restaurants"
+                            },
+                            {
+                              "label": "Fries",
+                              "url": "https://www.swiggy.com/city/nellore/fries-dish-restaurants"
+                            },
+                            {
+                              "label": "Manchurian",
+                              "url": "https://www.swiggy.com/city/nellore/manchurian-dish-restaurants"
+                            },
+                            {
+                              "label": "Pasta",
+                              "url": "https://www.swiggy.com/city/nellore/pasta-dish-restaurants"
+                            },
+                            {
+                              "label": "Bonda",
+                              "url": "https://www.swiggy.com/city/nellore/bonda-dish-restaurants"
+                            },
+                            {
+                              "label": "Paratha",
+                              "url": "https://www.swiggy.com/city/nellore/paratha-dish-restaurants"
+                            },
+                            {
+                              "label": "Mandi",
+                              "url": "https://www.swiggy.com/city/nellore/mandi-dish-restaurants"
+                            },
+                            {
+                              "label": "Other chaats",
+                              "url": "https://www.swiggy.com/city/nellore/other-chaats-dish-restaurants"
+                            },
+                            {
+                              "label": "Nuggets",
+                              "url": "https://www.swiggy.com/city/nellore/nuggets-dish-restaurants"
+                            },
+                            {
+                              "label": "Ice cream",
+                              "url": "https://www.swiggy.com/city/nellore/ice-cream-dish-restaurants"
+                            },
+                            {
+                              "label": "Bhajji",
+                              "url": "https://www.swiggy.com/city/nellore/bhajji-dish-restaurants"
+                            },
+                            {
+                              "label": "Thali",
+                              "url": "https://www.swiggy.com/city/nellore/thali-dish-restaurants"
+                            },
+                            {
+                              "label": "Bhurji",
+                              "url": "https://www.swiggy.com/city/nellore/bhurji-dish-restaurants"
+                            },
+                            {
+                              "label": "Sweets",
+                              "url": "https://www.swiggy.com/city/nellore/sweets-dish-restaurants"
+                            },
+                            {
+                              "label": "Cake",
+                              "url": "https://www.swiggy.com/city/nellore/cake-dish-restaurants"
+                            },
+                            {
+                              "label": "Salad",
+                              "url": "https://www.swiggy.com/city/nellore/salad-dish-restaurants"
+                            },
+                            {
+                              "label": "Soft drinks",
+                              "url": "https://www.swiggy.com/city/nellore/soft-drinks-dish-restaurants"
+                            },
+                            {
+                              "label": "Omelette",
+                              "url": "https://www.swiggy.com/city/nellore/omelette-dish-restaurants"
+                            },
+                            {
+                              "label": "Milk",
+                              "url": "https://www.swiggy.com/city/nellore/milk-dish-restaurants"
+                            },
+                            {
+                              "label": "Juice",
+                              "url": "https://www.swiggy.com/city/nellore/juice-dish-restaurants"
+                            },
+                            {
+                              "label": "Bath",
+                              "url": "https://www.swiggy.com/city/nellore/bath-dish-restaurants"
+                            },
+                            {
+                              "label": "Wings",
+                              "url": "https://www.swiggy.com/city/nellore/wings-dish-restaurants"
+                            },
+                            {
+                              "label": "Upma",
+                              "url": "https://www.swiggy.com/city/nellore/upma-dish-restaurants"
+                            },
+                            {
+                              "label": "Pakoda",
+                              "url": "https://www.swiggy.com/city/nellore/pakoda-dish-restaurants"
+                            },
+                            {
+                              "label": "Vada pav",
+                              "url": "https://www.swiggy.com/city/nellore/vada-pav-dish-restaurants"
+                            },
+                            {
+                              "label": "Bun",
+                              "url": "https://www.swiggy.com/city/nellore/bun-dish-restaurants"
+                            },
+                            {
+                              "label": "Puff",
+                              "url": "https://www.swiggy.com/city/nellore/puff-dish-restaurants"
+                            }
+                          ]
+                        },
+                        {
+                          "title": "Top QSR & Chains in Nellore",
+                          "links": [
+                            {
+                              "label": "Polar Bear",
+                              "url": "https://www.swiggy.com/city/nellore/polar-bear"
+                            },
+                            {
+                              "label": "Zomoz - The Momo Company",
+                              "url": "https://www.swiggy.com/city/nellore/zomoz-the-momo-company"
+                            },
+                            {
+                              "label": "Dumont Creamery",
+                              "url": "https://www.swiggy.com/city/nellore/dumont-creamery"
+                            },
+                            {
+                              "label": "WarmOven Cake & Desserts",
+                              "url": "https://www.swiggy.com/city/nellore/warmoven-cake-and-desserts"
+                            },
+                            {
+                              "label": "Momo Zone - The Momo Company",
+                              "url": "https://www.swiggy.com/city/nellore/momo-zone-the-momo-company"
+                            },
+                            {
+                              "label": "Kaati Zone Rolls & Wraps",
+                              "url": "https://www.swiggy.com/city/nellore/kaati-zone-rolls-and-wraps"
+                            },
+                            {
+                              "label": "The Dessert Zone",
+                              "url": "https://www.swiggy.com/city/nellore/the-dessert-zone"
+                            },
+                            {
+                              "label": "Cupcake Bliss Cake & Desserts",
+                              "url": "https://www.swiggy.com/city/nellore/cupcake-bliss-cake-and-desserts"
+                            },
+                            {
+                              "label": "Makers of Milkshakes",
+                              "url": "https://www.swiggy.com/city/nellore/makers-of-milkshakes"
+                            },
+                            {
+                              "label": "Sundae Everyday Ice Creams",
+                              "url": "https://www.swiggy.com/city/nellore/sundae-everyday-ice-creams"
+                            },
+                            {
+                              "label": "Indiana Burgers",
+                              "url": "https://www.swiggy.com/city/nellore/indiana-burgers"
+                            },
+                            {
+                              "label": "Shero Home Food - Andhra",
+                              "url": "https://www.swiggy.com/city/nellore/shero-home-food-andhra"
+                            },
+                            {
+                              "label": "Burger It Up",
+                              "url": "https://www.swiggy.com/city/nellore/burger-it-up"
+                            },
+                            {
+                              "label": "Slurpy Shakes",
+                              "url": "https://www.swiggy.com/city/nellore/slurpy-shakes"
+                            },
+                            {
+                              "label": "Seoul Fried Chicken",
+                              "url": "https://www.swiggy.com/city/nellore/seoul-fried-chicken"
+                            },
+                            {
+                              "label": "Kouzina Kafe - The Food Court",
+                              "url": "https://www.swiggy.com/city/nellore/kouzina-kafe-the-food-court"
+                            },
+                            {
+                              "label": "Bentoz Pizza",
+                              "url": "https://www.swiggy.com/city/nellore/bentoz-pizza"
+                            },
+                            {
+                              "label": "Havmor Havfunn Ice Cream",
+                              "url": "https://www.swiggy.com/city/nellore/havmor-havfunn-ice-cream"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.gandalf.widgets.v2.SeoFooter",
+                      "socialLinks": [
+                        {
+                          "label": "Linkedin",
+                          "url": "https://www.linkedin.com/company/swiggy-in/"
+                        },
+                        {
+                          "label": "Instagram",
+                          "url": "https://www.instagram.com/swiggyindia/?hl=en"
+                        },
+                        {
+                          "label": "Facebook",
+                          "url": "https://www.facebook.com/swiggy.in/"
+                        },
+                        {
+                          "label": "Pinterest",
+                          "url": "https://in.pinterest.com/swiggyindia/"
+                        },
+                        {
+                          "label": "Twitter",
+                          "url": "https://twitter.com/Swiggy?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.gandalf.widgets.v2.AppInstallLinks",
+                      "title": "For better experience,download the Swiggy app now",
+                      "androidAppImage": "portal/m/play_store.png",
+                      "androidAppLink": "https://play.google.com/store/apps/details?id=in.swiggy.android&referrer=utm_source%3Dswiggy%26utm_medium%3Dheader",
+                      "iosAppImage": "portal/m/app_store.png",
+                      "iosAppLink": "https://itunes.apple.com/in/app/id989540920?referrer=utm_source%3Dswiggy%26utm_medium%3Dhomepage"
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.gandalf.widgets.v2.PageMetaInfo",
+                      "title": "Order from Hotel Riyaz Pot Biryani online in Nellore | Swiggy",
+                      "description": "Order Online from Hotel Riyaz Pot Biryani in Achari Street, Nellore for delicious indian food. Enjoy fast delivery with Swiggy.",
+                      "keywords": "Hotel Riyaz Pot Biryani, Achari Street, Nellore, indian, food delivery, order food online"
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    ],
+    "firstOffsetRequest": true,
+    "isQCLink": false
+  },
+  "tid": "eyJLSUQiOiIyIiwiYWxnIjoiSFMyNTYiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE3ODM5NjE1MTksImlhdCI6MTc4Mzk1NzkxOSwic2Vzc2lvbl9kYXRhIjoiL2ZtWUY2cE0wRVBkNE53eUwxOTFRdTNsNkZ1YndUUVNjRWlrOVJKa2lpZ2NJcXFQa1dkeGxOM0xwb0pCMTJJYzNORUJPbWRidGZFUk9sZzAzUEZDQXVLL1NRSVk3Y25xQmVjRXJCMDd0RHRkMW9pb0FPa08zTWNIWmJpWDMvM1YwenZ1YjFwdkQ1QnhRNWpxZTRhNDhCbitGN05aL0xqRmlIL29IMWdIQVdvYU83c1piNVVmYkFvN1NId2xvNXVxR1RPOXp1UjcxUmUxNkw4UFdwbk9QZz09Iiwic2lkIjoic2dsMWIwNDJhZDctYWRhZS00YTM5LWE1NzYtZWNmNmVhYWQ2Iiwic3ViIjoiZGM0MTQ4Y2ItMDE4Ny00MDdjLThkOTQtYWQ3ZmJlMTM1MzE1IiwidXNlcl9pZCI6IjAifQ.sP2Pg9AxnMiEodgrm9wPOucj-9d_OEZBh1DlvUiXRtk",
+  "sid": "sgl1b042ad7-adae-4a39-a576-ecf6eaad6",
+  "deviceId": "63ed9d88-7000-9264-b893-a5601033715a",
+  "csrfToken": "kSJAwha1kzyZ-Hk0Nnknw693wywNqkFKJdBT7u3A"
+}
