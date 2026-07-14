@@ -1566,6 +1566,7 @@
                       ],
                       "avgRating": 4.4,
                       "parentId": "721",
+                      "promoted": false,
                       "avgRatingString": "4.4",
                       "totalRatingsString": "7.9K+",
                       "sla": {
@@ -1666,6 +1667,7 @@
                       ],
                       "avgRating": 3.8,
                       "parentId": "2438",
+                      "promoted": true,
                       "avgRatingString": "3.8",
                       "totalRatingsString": "1.7K+",
                       "sla": {
@@ -1785,6 +1787,7 @@
                       ],
                       "avgRating": 4.2,
                       "parentId": "288342",
+                      "promoted": true,
                       "avgRatingString": "4.2",
                       "totalRatingsString": "20K+",
                       "sla": {
@@ -1883,6 +1886,7 @@
                       "avgRating": 4.5,
                       "veg": true,
                       "parentId": "12661",
+                      "promoted": false,
                       "avgRatingString": "4.5",
                       "totalRatingsString": "33K+",
                       "sla": {
@@ -1989,6 +1993,7 @@
                       ],
                       "avgRating": 3.9,
                       "parentId": "12705",
+                      "promoted": false,
                       "avgRatingString": "3.9",
                       "totalRatingsString": "33K+",
                       "sla": {
@@ -2088,6 +2093,7 @@
                       ],
                       "avgRating": 4.2,
                       "parentId": "252887",
+                      "promoted": false,
                       "avgRatingString": "4.2",
                       "totalRatingsString": "1.6K+",
                       "sla": {
@@ -2195,6 +2201,7 @@
                       ],
                       "avgRating": 4.1,
                       "parentId": "12665",
+                      "promoted": false,
                       "avgRatingString": "4.1",
                       "totalRatingsString": "7.3K+",
                       "sla": {
@@ -2293,6 +2300,7 @@
                       ],
                       "avgRating": 4.2,
                       "parentId": "12707",
+                      "promoted": false,
                       "avgRatingString": "4.2",
                       "totalRatingsString": "11K+",
                       "sla": {
@@ -2379,6 +2387,7 @@
                       ],
                       "avgRating": 4.3,
                       "parentId": "194763",
+                      "promoted": true,
                       "avgRatingString": "4.3",
                       "totalRatingsString": "9.4K+",
                       "sla": {
@@ -2463,6 +2472,7 @@
                       ],
                       "avgRating": 4.2,
                       "parentId": "12646",
+                      "promoted": false,
                       "avgRatingString": "4.2",
                       "totalRatingsString": "1.4K+",
                       "sla": {
@@ -2562,6 +2572,7 @@
                       ],
                       "avgRating": 3.9,
                       "parentId": "351013",
+                      "promoted": true,
                       "avgRatingString": "3.9",
                       "totalRatingsString": "1.1K+",
                       "sla": {
@@ -2658,6 +2669,7 @@
                       ],
                       "avgRating": 3.9,
                       "parentId": "547",
+                      "promoted": false,
                       "avgRatingString": "3.9",
                       "totalRatingsString": "15K+",
                       "sla": {
@@ -2755,6 +2767,7 @@
                       "avgRating": 4.2,
                       "veg": true,
                       "parentId": "256065",
+                      "promoted": false,
                       "avgRatingString": "4.2",
                       "totalRatingsString": "10K+",
                       "sla": {
@@ -2851,6 +2864,7 @@
                       ],
                       "avgRating": 3.5,
                       "parentId": "91111",
+                      "promoted": true,
                       "avgRatingString": "3.5",
                       "totalRatingsString": "7.5K+",
                       "sla": {
@@ -2947,6 +2961,7 @@
                       "avgRating": 4.2,
                       "veg": true,
                       "parentId": "12654",
+                      "promoted": false,
                       "avgRatingString": "4.2",
                       "totalRatingsString": "8.7K+",
                       "sla": {
@@ -3055,6 +3070,7 @@
                       ],
                       "avgRating": 4.3,
                       "parentId": "374518",
+                      "promoted": false,
                       "avgRatingString": "4.3",
                       "totalRatingsString": "9.9K+",
                       "sla": {
@@ -3162,6 +3178,7 @@
                       ],
                       "avgRating": 4.4,
                       "parentId": "472782",
+                      "promoted": false,
                       "avgRatingString": "4.4",
                       "totalRatingsString": "19K+",
                       "sla": {
@@ -3266,6 +3283,7 @@
                       ],
                       "avgRating": 4.5,
                       "parentId": "12546",
+                      "promoted": true,
                       "avgRatingString": "4.5",
                       "totalRatingsString": "3.7K+",
                       "sla": {
@@ -3385,6 +3403,7 @@
                       ],
                       "avgRating": 4.2,
                       "parentId": "12592",
+                      "promoted": false,
                       "avgRatingString": "4.2",
                       "totalRatingsString": "4.8K+",
                       "sla": {
@@ -3483,6 +3502,7 @@
                       ],
                       "avgRating": 4.3,
                       "parentId": "588838",
+                      "promoted": false,
                       "avgRatingString": "4.3",
                       "totalRatingsString": "20K+",
                       "sla": {
@@ -3643,6 +3663,7 @@
                       ],
                       "avgRating": 4.4,
                       "parentId": "721",
+                      "promoted": false,
                       "avgRatingString": "4.4",
                       "totalRatingsString": "7.9K+",
                       "sla": {
@@ -3761,6 +3782,7 @@
                       ],
                       "avgRating": 3.8,
                       "parentId": "2438",
+                      "promoted": false,
                       "avgRatingString": "3.8",
                       "totalRatingsString": "1.7K+",
                       "sla": {
@@ -3898,6 +3920,7 @@
                       ],
                       "avgRating": 4.2,
                       "parentId": "288342",
+                      "promoted": false,
                       "avgRatingString": "4.2",
                       "totalRatingsString": "20K+",
                       "sla": {
@@ -4014,6 +4037,7 @@
                       "avgRating": 4.5,
                       "veg": true,
                       "parentId": "12661",
+                      "promoted": true,
                       "avgRatingString": "4.5",
                       "totalRatingsString": "33K+",
                       "sla": {
@@ -4139,6 +4163,7 @@
                       ],
                       "avgRating": 4,
                       "parentId": "167660",
+                      "promoted": false,
                       "avgRatingString": "4.0",
                       "totalRatingsString": "510",
                       "sla": {
@@ -4242,6 +4267,7 @@
                       ],
                       "avgRating": 3.9,
                       "parentId": "12705",
+                      "promoted": true,
                       "avgRatingString": "3.9",
                       "totalRatingsString": "33K+",
                       "sla": {
@@ -4359,6 +4385,7 @@
                       "avgRating": 4.4,
                       "veg": true,
                       "parentId": "500630",
+                      "promoted": false,
                       "avgRatingString": "4.4",
                       "totalRatingsString": "2.2K+",
                       "sla": {
@@ -4472,6 +4499,7 @@
                       ],
                       "avgRating": 4.1,
                       "parentId": "12665",
+                      "promoted": true,
                       "avgRatingString": "4.1",
                       "totalRatingsString": "7.3K+",
                       "sla": {
